@@ -1,1 +1,1 @@
-# Cryptocurrency_Trading_Bot
+# Ethereum Trading Bot With Reinforcement Learning
